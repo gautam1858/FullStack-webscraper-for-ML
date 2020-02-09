@@ -1,3 +1,5 @@
+![logo](node.png)
+
 ***The documentation  in this repository describe the FullStack webscrapping platform for use in Machine learning.***
 
 ### Architecture 
